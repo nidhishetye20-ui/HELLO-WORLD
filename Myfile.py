@@ -1,0 +1,5 @@
+print('SHRUTI')
+print('SEJAL')
+print('PARO')
+print('PRAJWAL')
+print('NIDHI')
